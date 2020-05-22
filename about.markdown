@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Engineering Site
 permalink: /about/
 ---
 
